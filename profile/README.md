@@ -7,7 +7,7 @@
 🤝 Collaboration and community are the cornerstones of our ethos. We're not just a company; we're a movement. If you're seeking a partner that shares your vision for a transformative crypto project, BulahBulTech is your destination. 🌟
 
 📢 Connect with us:
-- **GitHub**: [https://github.com/BulahBulTech]
+- [**GitHub**:](https://x.com/BulahBulTech)
 - **Twitter**: [https://x.com/BulahBulTech]
 - **Email**: [bulahbulperodehe57430@gmail.com]
 
