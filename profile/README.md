@@ -8,7 +8,7 @@
 
 📢 **Connect with us**:
 
-- [**GitHub**](https://x.com/BulahBulTech)
+- [**GitHub**](https://github.com/BulahBulTech)
 - [**Twitter**](https://x.com/BulahBulTech)
 - [**Email**](bulahbulperodehe57430@gmail.com)
 
