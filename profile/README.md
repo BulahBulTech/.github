@@ -11,5 +11,6 @@
 - [**GitHub**](https://github.com/BulahBulTech)
 - [**Twitter**](https://x.com/BulahBulTech)
 - [**Email**](bulahbulperodehe57430@gmail.com)
+- [**Discord channel**](https://discord.gg/NHyCqrdf)
 
 Let's innovate and inspire the world of finance together! ✨
