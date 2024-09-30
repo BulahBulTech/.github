@@ -19,6 +19,9 @@
 
 ---
 
+![image](https://github.com/user-attachments/assets/cf6baf29-8592-45ab-a5d7-f4b707ca6ff9)
+### [Web](https://0g.ai/) | [BulahBulTech guide](https://github.com/BulahBulTech/run-0g-storage-node)
+
 📢 **Connect with us**:
 
 - [**Blog**](https://mirror.xyz/0xc88673EC2301ecCCf1c15EC0b9f9CB974a000487)
