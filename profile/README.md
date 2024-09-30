@@ -1,14 +1,25 @@
-🚀 **Welcome to BulahBulTech!** We're a visionary team of software developers diving deep into the **cryptocurrency** domain. Our expertise lies in forging advanced software that navigates the complexities of digital currencies. 🌐
+# 🚀 **Welcome to BulahBulTech!** 
 
-🔒 Driven by a passion for **blockchain technology**, we at BulahBulTech are on a quest to build a more secure and decentralized financial future. Our projects are a testament to our commitment to innovation and excellence. 💡
+## We're a visionary team of software developers diving deep into the **cryptocurrency** domain. Our expertise lies in forging advanced software that navigates the complexities of digital currencies. 🌐
 
-💼 From robust smart contracts to intuitive dApps, and intricate crypto algorithms, our work embodies the spirit of discovery and the pursuit of technological breakthroughs. Join us on this exhilarating journey to redefine financial technology. 💻
+# Portfolio
 
-🤝 Collaboration and community are the cornerstones of our ethos. We're not just a company; we're a movement. If you're seeking a partner that shares your vision for a transformative crypto project, BulahBulTech is your destination. 🌟
+![image](https://github.com/user-attachments/assets/7b30fd03-f83a-48b8-9281-0adc411a4a8c)
+### [Web](https://initia.xyz/) | [BulahBulTech guide](https://mirror.xyz/0xc88673EC2301ecCCf1c15EC0b9f9CB974a000487/stFFgoFQIUdxm7aQdzs-nHSTPMo4PVWfccRvjL8tzQw)
+
+---
+
+![image](https://github.com/user-attachments/assets/0e9c6d4a-2ebd-4ae7-9141-304f030ef55a)
+### [Web](https://www.fuel.network/)
+
+---
+
+![image](https://github.com/user-attachments/assets/2d056e9b-8df8-4719-93e4-87ba1c9f6388)
+### [Web](https://www.nillion.com/)
 
 📢 **Connect with us**:
 
-- [**GitHub**](https://github.com/BulahBulTech)
+- [**Blog**](https://mirror.xyz/0xc88673EC2301ecCCf1c15EC0b9f9CB974a000487)
 - [**Twitter**](https://x.com/BulahBulTech)
 - [**Email**](bulahbulperodehe57430@gmail.com)
 - [**Discord channel**](https://discord.gg/NHyCqrdf)
