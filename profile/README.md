@@ -17,6 +17,8 @@
 ![image](https://github.com/user-attachments/assets/2d056e9b-8df8-4719-93e4-87ba1c9f6388)
 ### [Web](https://www.nillion.com/)
 
+---
+
 📢 **Connect with us**:
 
 - [**Blog**](https://mirror.xyz/0xc88673EC2301ecCCf1c15EC0b9f9CB974a000487)
